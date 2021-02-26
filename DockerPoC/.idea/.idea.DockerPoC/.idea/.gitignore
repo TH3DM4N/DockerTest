@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.DockerPoC.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\ICT\S3-DB01\DockerTest\DockerPoC\.idea\.idea.DockerPoC\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
